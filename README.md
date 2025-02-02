@@ -2,18 +2,18 @@
 
 **Sobre mim**
 - 👐 Olá, meu nome é Matheus!
-- ⏫ Sempre buscando aprender mais para me tornar melhor.
-- 🎓 Estudando engenharia de dados.
+- ⏫ Estou sempre buscando aprender mais, então fique à vontade para enviar feedbacks.
+- 🎓 Formando em Sistemas de Informação.
 
 **Aprendendo mais sobre**
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Habilidades**
 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
